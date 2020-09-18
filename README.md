@@ -22,11 +22,15 @@ You can check the documentation for the more information
 
 **Contributors**:
 
-Soman Yadav, Siddhesh Shinde, Saurabh Kumar, and Diksha Dutt
+Soman Yadav, Diksha Dutt, Saurabh Kumar and Siddhesh Shinde
 
 **Website**:
 
 https://somanyadav.github.io/WOMEN-The-Wonder/
+
+**Presentation**:
+
+https://drive.google.com/file/d/1winpB6186CoJCc7VkDT96H0iHzAngwMg/view
 
 To run this file - Go to Zip Folder, Run index.html 
 
