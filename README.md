@@ -35,10 +35,6 @@ To run this file - Go to Zip Folder, Run `index.html`
 
 ## Useful Links:
 
-### Website:
-
-https://somanyadav.github.io/WOMEN-The-Wonder/
-
 ### Presentation:
 
 https://drive.google.com/file/d/1winpB6186CoJCc7VkDT96H0iHzAngwMg/view
