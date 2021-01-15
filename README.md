@@ -3,7 +3,7 @@
 
 ## Problem6: Migrant workers don't have enough employment opportunities in their hometown so starting something from scratch in an easy-to-go market place is like a dream come true.
 
-#### This project is made during 12 hours hackathon which was conducted by GirlScript Foundation and Hack4Women. 
+#### This project is made during 12 hours hackathon which was conducted by [GirlScript](https://www.girlscript.tech/home) Foundation and Hack4Women. 
 
 **Problem Statement** :
 After the pandemic things really changed upside down. There were many industries which got affected. The industry which was most affected was the travel industry as there was a ban on traveling due to safety measures. Other who were affected were women of small towns as their source of income was hospitality, selling handicraft in the tourist market, or by their cooking skills. 
@@ -24,7 +24,7 @@ After the pandemic things really changed upside down. There were many industries
 
 You can check the [documentation](https://drive.google.com/file/d/1winpB6186CoJCc7VkDT96H0iHzAngwMg/view) for the more information
 
-## Run the Application
+## Run the Application:
 
 To run this file - Go to Zip Folder, Run `index.html`
 
@@ -33,7 +33,7 @@ To run this file - Go to Zip Folder, Run `index.html`
 
 [Soman Yadav](https://github.com/somanyadav), [Diksha Dutt](https://github.com/dikshadutt08), [Saurabh Kumar](https://github.com/Saurabh70) and [Siddhesh Shinde](https://github.com/SiddheshShinde-tech)
 
-## Useful Links
+## Useful Links:
 
 ### Website:
 
